@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class PhoneZoomController : MonoBehaviour {
+public class PinchCenterZoom : MonoBehaviour {
 
     const float ZOOM_SPEED = 0.05f;
     float mMaxZoomOutSize;
